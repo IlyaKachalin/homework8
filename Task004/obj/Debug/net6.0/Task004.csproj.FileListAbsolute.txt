@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.AssemblyInfo.cs
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\bin\Debug\net6.0\Task004.exe
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\bin\Debug\net6.0\Task004.deps.json
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\bin\Debug\net6.0\Task004.runtimeconfig.json
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\bin\Debug\net6.0\Task004.dll
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\bin\Debug\net6.0\Task004.pdb
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.dll
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\refint\Task004.dll
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.pdb
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\Task004.genruntimeconfig.cache
+C:\Users\Asus\Desktop\попытка 2\Homework8\Task004\obj\Debug\net6.0\ref\Task004.dll
